@@ -43,14 +43,6 @@
   <li> <b>Windows Form Application</b> - DAGAT.ph features a user-friendly Windows Form Application interface for interacting with the collected data. Users can easily visualize pH measurements, location data, and timestamps through the application. </li>
 
 </ul>
-	
-![-----------------------------------------------------](https://user-images.githubusercontent.com/120115162/228392342-69a82c70-fed2-40ac-a522-b5d251b9d489.png)
-### <a name="--uml-diagram"></a>
-## 🖧UML Diagram
-The code's UML diagram shows the connections between classes, interfaces, and components. It acts as an outline to enable a deeper understanding of the codebase, identify critical components, and facilitate efficient collaboration during software development.
-<p align="center">
-<a href="https://lh3.googleusercontent.com/drive-viewer/AFGJ81pCUqaEk_s8aS0mpJlnUX8Dbi90_5UdHDuxXT24_BlJMhb6J96NYvwj1wZIfxWjUGWTIJZrCDiWdSh8UeArvSv9Utwabw=s2560?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/drive-viewer/AFGJ81pCUqaEk_s8aS0mpJlnUX8Dbi90_5UdHDuxXT24_BlJMhb6J96NYvwj1wZIfxWjUGWTIJZrCDiWdSh8UeArvSv9Utwabw=s2560" /> </a>
-</p>
 
 ![-----------------------------------------------------](https://user-images.githubusercontent.com/120115162/228392342-69a82c70-fed2-40ac-a522-b5d251b9d489.png)
 ### <a name="--video-presentation"></a>
