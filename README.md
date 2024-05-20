@@ -54,6 +54,13 @@
 <b>Timestamps</b>
 <ul>
 	<li>0:00 - Start</li>
+ 	<li>0:31 - The Problem at Hand</li>
+  	<li>1:26 - Sustainable Development Goals (SDG)</li>
+   	<li>1:45 - Arduino (Hardware & Software)</li>
+    	<li>2:29 - Windows Forms</li>
+     	<li>3:15 - AOOP Principles</li>
+      	<li>5:34 - Ending</li>
+ 
 
 </ul>
 </p>
